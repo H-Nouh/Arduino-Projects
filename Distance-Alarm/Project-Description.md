@@ -4,14 +4,14 @@
 You can find the detailed project in TinkerCad here: [Distance-Alarm](https://www.tinkercad.com/things/iDJrW2kYhvd-distance-alarm). <br>
 You will find both the circuit and the code there, and you can copy it and simulate the alarm or customize it yourself! <br>
 I have included several comments to the code, to help you understand what each command does. <br>
-You can find the code here too in: [Program](Distance-Alarm/Program) and the Circuit in: [Circuit](Distance-Alarm/Circuit).
-## Used Material:
+You can find the Code here too in: [Program](Program.cpp) and the Circuit in: [Circuit](Circuit.png).
+## Used Materials:
 -Arduino Uno MicroController x1 <br>
+-USB 2.0 Cable (Type A/B) x1 <br>
 -UltraSonic Sensor x1 <br>
 -LED x1 <br>
 -Piezzo Buzzer x1 <br>
 -Resistors x2 <br>
--USB 2.0 Cable (Type A/B) x1 <br>
 -Jumper Wires x10
 ## How does it work?
   To understand the alarm, we have to understand how UltraSonic sensors work first. <br>
